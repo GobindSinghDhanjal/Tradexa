@@ -1,0 +1,19 @@
+.user-form{
+    width: 80%;
+    margin: 10% auto;
+    padding: 10%;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 2;
+}
+
+@media (max-width:1000px){
+    .user-form{
+        width: 90%;
+        margin: 10% auto;
+        padding: 10%;
+        border: 1px solid black;
+        text-align: center;
+        line-height: 2;
+    }
+}
